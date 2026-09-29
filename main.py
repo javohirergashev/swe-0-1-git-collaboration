@@ -1,4 +1,4 @@
-print("Written by: Javohir, Sajed and Anthony")
+print("Written by: Javohir")
 print("Title: The boy who cried wolf")
 print("Setting:movies ")
 print("Characters : Batman and Superman")
