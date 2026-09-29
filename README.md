@@ -1,4 +1,4 @@
-# Git Collaboration
+# Git Collaboration Team 10
 
 This assignment is about git, not Python. The interesting part is the workflow: how to
 
